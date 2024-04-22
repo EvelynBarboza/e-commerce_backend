@@ -1,0 +1,40 @@
+[
+    {
+        "id": 0,
+        "nombre": "Masajes Descontracturantes",
+        "price": 750,
+        "numId": 25,
+        "stock": 10
+    },
+    {
+        "id": 0,
+        "nombre": "Masajes Relajantes",
+        "price": 750,
+        "numId": 25,
+        "stock": 10
+    },
+    {
+        "id": 0,
+        "nombre": "Reiki Usui",
+        "price": 750,
+        "numId": 25,
+        "stock": 10
+    },
+    {
+        "id": 0,
+        "nombre": "Registros Akashicos",
+        "price": 750,
+        "numId": 25,
+        "stock": 10
+    },
+    {
+        "id": 0,
+        "nombre": "Regresiones a vidas pasadas",
+        "price": 750,
+        "numId": 25,
+        "stock": 10
+    }
+
+    
+]
+
